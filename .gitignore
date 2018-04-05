@@ -1,3 +1,7 @@
 Debug/*
 *.vcxproj*
 ola.txt
+procdic/Debug/*
+procdic/*.vcxproj*
+playwords/Debug/*
+playwords/*.vcxproj*
