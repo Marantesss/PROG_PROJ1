@@ -4,6 +4,8 @@ ola.txt
 procdic/Debug/*
 procdic/*.vcxproj*
 procdic/*.sln
+procdic/*.vs
 playwords/Debug/*
 playwords/*.vcxproj*
 playwords/*.sln
+playwords/*.vs
