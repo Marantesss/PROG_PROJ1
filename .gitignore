@@ -5,7 +5,9 @@ procdic/Debug/*
 procdic/*.vcxproj*
 procdic/*.sln
 procdic/*.vs
+procdic/x64/*
 playwords/Debug/*
 playwords/*.vcxproj*
 playwords/*.sln
 playwords/*.vs
+playwords/x64/*
