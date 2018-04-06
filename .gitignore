@@ -1,4 +1,5 @@
 Debug/*
+*.gitattributes
 *.vcxproj*
 ola.txt
 procdic/Debug/*
